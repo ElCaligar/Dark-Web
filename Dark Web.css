@@ -1,0 +1,15 @@
+body {
+    background-color: cadetblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 1px 1px burlywood;
+    text-size-adjust: 50%;
+    text-align: center;
+    line-height: 1.5
+}
+h2:active,
+h2:hover
+{
+    text-transform: uppercase;
+    background-color: blue;
+    color: cadetblue;
+} 
